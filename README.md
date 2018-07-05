@@ -20,7 +20,7 @@ start(ttst)
 
 ## 致谢
 
-感谢 Twitter.com/Jessica_ET 搜集整理，已获其授权。
+感谢 [@Jessica_ET](https://twitter.com/Jessica_ET/status/147195489635409921) 搜集整理，已获其授权。
 
 ## 案例
 Telegram Channel [#推特食堂 @aiqing](https://t.me/aiqing)
